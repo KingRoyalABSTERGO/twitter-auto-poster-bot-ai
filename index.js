@@ -24,8 +24,8 @@ async function run() {
   });
 
   // Write your prompt here
-  const prompt =
-    "I want you to create posts for my AI bot that are engaging, educational, and visually appealing, centered around the fascinating topic of space exploration. The posts should spark curiosity, encourage interactions, and establish my bot as a go-to source for exciting space-related content. Here’s the type of content I want:
+  const prompt =`
+I want you to create posts for my AI bot that are engaging, educational, and visually appealing, centered around the fascinating topic of space exploration. The posts should spark curiosity, encourage interactions, and establish my bot as a go-to source for exciting space-related content. Here’s the type of content I want:
 
 Fun Facts and Bite-Sized Knowledge: Short, captivating space facts that are easy to understand and share. For example:
 
@@ -54,7 +54,7 @@ Threads for Deep Dives: Create threads to explain complex topics like black hole
 Event-Based Posts: Highlight upcoming astronomical events like eclipses or meteor showers. For example:
 
 "Heads up! 🌠 The Perseid Meteor Shower peaks this weekend. Here’s how to catch the best views: 1. Find a dark spot. 2. Look up after midnight. 3. Make a wish! 🌌 #Perseids2025"
-Focus on variety to keep the audience engaged—mix facts, visuals, news, and interactive posts. Use an approachable but knowledgeable tone, and include hashtags like #SpaceFacts, #Astronomy, or #ExploreTheStars for visibility. The combination of stunning imagery, intriguing facts, and interactive content will make the bot stand out and grow its following on X.";
+Focus on variety to keep the audience engaged—mix facts, visuals, news, and interactive posts. Use an approachable but knowledgeable tone, and include hashtags like #SpaceFacts, #Astronomy, or #ExploreTheStars for visibility. The combination of stunning imagery, intriguing facts, and interactive content will make the bot stand out and grow its following on X.`;
 
 
 
