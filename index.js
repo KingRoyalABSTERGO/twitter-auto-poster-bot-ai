@@ -54,7 +54,7 @@ Threads for Deep Dives: Create threads to explain complex topics like black hole
 Event-Based Posts: Highlight upcoming astronomical events like eclipses or meteor showers. For example:
 
 "Heads up! 🌠 The Perseid Meteor Shower peaks this weekend. Here’s how to catch the best views: 1. Find a dark spot. 2. Look up after midnight. 3. Make a wish! 🌌 #Perseids2025"
-Focus on variety to keep the audience engaged—mix facts, visuals, news, and interactive posts. Use an approachable but knowledgeable tone, and include hashtags like #SpaceFacts, #Astronomy, or #ExploreTheStars for visibility. The combination of stunning imagery, intriguing facts, and interactive content will make the bot stand out and grow its following on X."
+Focus on variety to keep the audience engaged—mix facts, visuals, news, and interactive posts. Use an approachable but knowledgeable tone, and include hashtags like #SpaceFacts, #Astronomy, or #ExploreTheStars for visibility. The combination of stunning imagery, intriguing facts, and interactive content will make the bot stand out and grow its following on X.";
 
 
 
